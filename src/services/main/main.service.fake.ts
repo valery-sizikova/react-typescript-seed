@@ -1,4 +1,4 @@
-import { injectable } from "src/di";
+import { injectable } from "../../di";
 import { IMainService } from "src/services/main/main.service";
 
 @injectable()

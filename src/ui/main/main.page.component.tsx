@@ -1,9 +1,9 @@
 import * as React from 'react';
-import { resolveInject } from 'src/di';
+import { resolveInject } from './../../di';
 
-import { IMainService } from 'src/services/main/main.service';
 
 import './main.page.component.css';
+import { IMainService } from '../../services/main/main.service';
 
 interface IComponentProps { }
 
