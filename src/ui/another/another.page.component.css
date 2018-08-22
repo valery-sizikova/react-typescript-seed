@@ -1,3 +1,9 @@
-.main-container {
+$primary-color: red;
+
+.another-container {
   text-align: center;
+  display: flex;
+  &:hover {
+    color: $primary-color;
+  }
 }

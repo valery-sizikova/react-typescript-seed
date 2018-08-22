@@ -1,3 +1,6 @@
+@import "./ui/another/another.page.component.css";
+@import "./ui/main/main.page.component.css";
+
 body {
   margin: 0;
   padding: 0;

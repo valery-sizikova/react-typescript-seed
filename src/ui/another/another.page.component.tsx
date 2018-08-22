@@ -1,7 +1,5 @@
 import * as React from 'react';
 
-import './another.page.component.css';
-
 interface IComponentProps { }
 
 interface IComponentState { }

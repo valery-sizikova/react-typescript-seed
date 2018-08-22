@@ -6,8 +6,7 @@ import registerServiceWorker from './registerServiceWorker';
 import DependecyInjectionSetup from './di-setup';
 import { Routes } from 'src/routes';
 
-
-import './index.css';
+import './styles.css';
 
 DependecyInjectionSetup.setup();
 

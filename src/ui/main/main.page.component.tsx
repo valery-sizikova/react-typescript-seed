@@ -1,8 +1,6 @@
 import * as React from 'react';
 import { resolveInject } from './../../di';
 
-
-import './main.page.component.css';
 import { IMainService } from '../../services/main/main.service';
 
 interface IComponentProps { }
